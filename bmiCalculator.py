@@ -6,7 +6,7 @@ while True:
     if unit in ["K", "L"]:
         break
     print("Invalid input! Please enter 'K' for Kilogram and 'L' for Pounds.")
-
+C:\Users\DELL\PycharmProjects\PythonProject\bmiCalculator.py
 # Perform conversion based on valid input
 if unit.upper() == "K":
     converted = weight/0.45
